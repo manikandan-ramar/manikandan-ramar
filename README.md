@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Manikandan 👋</h1>
+<h1 align="center">Hi, I'm Manikandan Ramar 👋</h1>
 
 <p align="center">
   🚀 Senior Software Engineer | Full-Stack JavaScript Dev | Tech Entrepreneur <br/>
   💻 ReactJS · Next.js · React Native · Node.js · Firebase · Strapi · MongoDB <br/>
-  🌐 <a href="https://manikandan.co" target="_blank">manikandan.co</a> | ℹ️ <a href="https://linkedin.com/in/manikandan-co" target="_blank">@manikandan-co</a>
+  🌐 <a href="https://manikandanramar.com" target="_blank">manikandanramar.com</a> | ℹ️ <a href="https://linkedin.com/in/manikandanramar" target="_blank">@manikandanramar</a>
 </p>
 
 ---
