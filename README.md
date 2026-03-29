@@ -1,26 +1,50 @@
-<h1 align="center">Hi, I'm Manikandan Ramar 👋</h1>
+<h1 align="center">Manikandan Ramar 👋</h1>
 
 <p align="center">
-  🚀 Senior Software Engineer | Full-Stack JavaScript Dev | Tech Entrepreneur <br/>
-  💻 ReactJS · Next.js · React Native · Node.js · Firebase · Strapi · MongoDB <br/>
-  🌐 <a href="https://manikandanramar.com" target="_blank">manikandanramar.com</a> | ℹ️ <a href="https://linkedin.com/in/manikandanramar" target="_blank">@manikandanramar</a>
+  🚀 Software Engineer III @ Walmart | Full-Stack Engineer | AI Builder <br/>
+  💻 React · Next.js · React Native · Node.js · AI Systems · Distributed UI <br/>
+  🌐 <a href="https://manikandanramar.com" target="_blank">Portfolio</a> | 
+  🔗 <a href="https://linkedin.com/in/manikandanramar" target="_blank">LinkedIn</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working at **Incredible Visibility** as a Senior Software Engineer
-- 🌱 6+ years of experience in full-stack JavaScript development
-- 📱 Building cross-platform apps with **React Native** for Android & iOS
-- 🧠 Actively using **AI tools like ChatGPT & Cursor** to ship faster
-- 🛒 Running a tech-powered D2C snack brand: [**Manichips.com**](https://manichips.com)
-- ⚡ Fun fact: I once built an extension to toggle JS from your browser – [JS Switch](https://github.com/manikandan-co/javascript-switch)
+- 🏢 Currently building scalable products at **Walmart Global Tech**
+- 💡 6+ years crafting high-performance web & mobile applications
+- ⚛️ Specialized in **React ecosystem & frontend architecture at scale**
+- 🤖 Building **AI-powered systems** (LangChain, LLMs, vector search, agents)
+- 📱 Shipping cross-platform apps with **React Native (iOS & Android)**
+- 🛒 Founder of a D2C brand: **Manichips.com** (built end-to-end tech stack)
+- ⚡ Strong focus on **performance, DX, and product thinking**
 
 ---
 
-### 🔨 Tech Stack
+### 🚀 What I’ve Built
+
+- 🧠 **AI Knowledge Base Platform**  
+  → Context-aware AI agents using OpenAI, LangChain, pgvector, Supabase  
+
+- 📱 **ADHD Coaching Platform (Web + Mobile)**  
+  → Real-time chat, video, goals tracking with Firebase & React Native  
+
+- 📊 **Finance Forecasting System**  
+  → Complex UI + role-based systems using TypeScript & Radix UI  
+
+- 🧾 **FormsLeads (Form CDN Platform)**  
+  → High-performance embeddable forms with CDN delivery  
+
+- 🛍️ **Manichips (D2C E-commerce)**  
+  → Next.js + Firebase + CMS + Admin Dashboard  
+
+---
+
+### 🧠 Tech Stack
 
 ```ts
-JavaScript | TypeScript | ReactJS | React Native | Next.js | Node.js | Firebase | MongoDB | Strapi | Tailwind CSS
-```
+Frontend: React.js, Next.js, TypeScript, Tailwind, Redux  
+Mobile: React Native  
+Backend: Node.js, Firebase, Strapi  
+AI: OpenAI, LangChain, LangGraph, Vector DBs  
+Infra: AWS, GCP, Vercel  
