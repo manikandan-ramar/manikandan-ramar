@@ -104,11 +104,12 @@ $ cat now.txt
 
 currently learning
 
+  → Python
+  → Generative AI
   → agentic AI
   → LangGraph
   → AI workflow automation
   → advanced RAG patterns
-  → AI-assisted development
 
 currently building
 
